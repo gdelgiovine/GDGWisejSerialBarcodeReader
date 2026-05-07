@@ -14,7 +14,7 @@ For more information on the Web Serial API and how to use it, you can refer to t
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Serial_API
 
 The tester application is written in VB.NET so the VB devs can understand the use of user control in a familiar way. The C# devs can easely migrate di tester app to C#. 
-The user control source code can be used to understand the way the Wisej.NET architecture allows .NET server side code and Client Side JavaScript code can cooperate and how Wisej.NET allow to extend any controls with JavaScript functions.
+The user control source code can be used to understand the way the Wisej.NET architecture allows .NET server side code and Client Side JavaScript code can cooperate and how Wisej.NET allow to extend any control with JavaScript functions.
 
 This application is a great starting point for anyone looking to integrate barcode scanning functionality into their Wisej applications using the Web Serial API.
 License is MIT, so you are free to use, modify, and distribute the code as needed.
